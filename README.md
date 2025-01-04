@@ -6,6 +6,10 @@
 - seccion basica de galeria (incompleto..solo muestra)
 - featured products (problema con el icono)
 - latest products (problema con el icono)
+- En oferta (falta: scroll horizontal con mas productos)
+- Testimonial(falta: algo paso con el gap y no funcionan los iconos)
+- Branches (Con marcas reales con dimensiones correctas debe funcionar perfectamente)
+- footer (falta; Cada vez que veas un logo va uno como deberia ser y no el que esta puesto)
 
 ### EL OBJETIVO FUNDAMENTAL DE ESTE README ES:
 1. Que te ocupes de los colores, fotos e iconos (Disenno en general)
@@ -14,6 +18,12 @@
 4. Que estes al tanto de cada cambio y que veas desde dentro el codigo fuente y no solo el resultado
 
 
-### Tasks (Cosas que quieres que haga)
-- [x] task 1
+### Tasks para Luis (Cosas que quieres que haga)
+- [ ] task 1
 - [ ] task 2
+
+### Tasks para Ernesto (Cosas que necesito que hagas)
+- [ ] imagenes, logos, iconos
+- [ ] revisar y reportar
+- [ ] Recomendar funcionalidades y secciones de esta pagina (no de las otras)
+- [ ] Revisar semantica XD!!
